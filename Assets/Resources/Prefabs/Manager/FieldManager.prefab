@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &184422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 408204}
+  - 114: {fileID: 11464826}
+  - 114: {fileID: 11460830}
+  m_Layer: 9
+  m_Name: FieldManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &408204
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -55.3, y: 0, z: -0.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11460830
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c523c14cfbdadf24881cf9de5a6e91a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  label: {fileID: 0}
+--- !u!114 &11464826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb44370e4b117254598ffccb45979f39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_minimap_Obj:
+  - {fileID: 0}
+  - {fileID: 0}
+  m_minimapCamera: {fileID: 0}
+  m_getItem_UI: {fileID: 0}
+  m_getItem_Label: {fileID: 0}
+  m_key_UI_BG: {fileID: 0}
+  staminaBar: {fileID: 0}
+  m_staminaLabel: {fileID: 0}
+  m_timeLabel: {fileID: 0}
+  m_resultSprite: {fileID: 0}
+  m_resulteChild: []
+  m_boosterPivot: {fileID: 0}
+  m_gameController: {fileID: 0}
+  m_clearMenu: {fileID: 0}
+  m_State_UI_Anchor: {fileID: 0}
+  m_buttonCheck: 0
+  m_boostPivotRot: 40
+  m_currentPlayTime: 0
+  m_currentStamina: 0
+  targetObj: {fileID: 0}
+  m_cameraRig: {fileID: 0}
+  m_camera: {fileID: 0}
+  m_goalObj: {fileID: 0}
+  m_thirdPersonCharacter: {fileID: 0}
+  m_thirdPersonUserControl: {fileID: 0}
+  m_targetObjAnim: {fileID: 0}
+  m_caching_CameraRigCaching: {fileID: 0}
+  m_caching_camera: {fileID: 0}
+  m_resultLabel:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_itemCollCheck: {fileID: 0}
+  m_mapObject: {fileID: 0}
+  m_keyObject: {fileID: 0}
+  m_torch_Object: {fileID: 0}
+  m_mapRader: {fileID: 0}
+  m_stage_Goal_coll: {fileID: 0}
+  m_backupSpeed: 0
+  m_backupAnimSpeed: 0
+  m_backupForwardAmount: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 184422}
+  m_IsPrefabParent: 1

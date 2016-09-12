@@ -1,0 +1,107 @@
+   
+[
+    {
+        "ID": 1,
+        "MapNumber": 0,
+        "MapName": "Underground Labyrinth - The Fourth Floor",
+        "MapLv": 2,
+        "Clear": false,
+        "thumbnail": "Map1",
+        "background": "MapBG1",
+		"DefaultScore":100000
+    },
+    {
+        "ID": 2,
+        "MapNumber": 1,
+        "MapName": "Underground Labyrinth - The Third Floor",
+        "MapLv": 3,
+        "Clear": false,
+        "thumbnail": "Map1",
+        "background": "MapBG2",
+		"DefaultScore":110000
+    },
+    {
+        "ID": 3,
+        "MapNumber": 2,
+        "MapName": "Underground Labyrinth - The Second Floor",
+        "MapLv": 1,
+        "Clear": false,
+        "thumbnail": "Map1",
+        "background": "MapBG3",
+		"DefaultScore":120000
+    },
+    {
+        "ID": 4,
+        "MapNumber": 3,
+        "MapName": "Underground Labyrinth - The First Floor",
+        "MapLv": 3,
+        "Clear": false,
+        "thumbnail": "Map1",
+        "background": "MapBG4",
+		"DefaultScore":120000
+    },
+    {
+        "ID": 5,
+        "MapNumber": 4,
+        "MapName": "Forest Labyrinth",
+        "MapLv": 4,
+        "Clear": false,
+        "thumbnail": "Map5",
+        "background": "MapBG5",
+		"DefaultScore":130000
+    },
+    {
+        "ID": 6,
+        "MapNumber": 5,
+        "MapName": "Cattle Labyrinth - The First Floor",
+        "MapLv": 5,
+        "Clear": false,
+        "thumbnail": "Map6",
+        "background": "MapBG6",
+		"DefaultScore":140000
+    },
+    {
+        "ID": 7,
+        "MapNumber": 6,
+        "MapName": "Cattle Labyrinth - The Second Floor",
+        "MapLv": 5,
+        "Clear": false,
+        "thumbnail": "Map7",
+        "background": "MapBG7",
+		"DefaultScore":140000
+    },
+    {
+        "ID": 8,
+        "MapNumber": 7,
+        "MapName": "Prison Labyrinth - The First Floor",
+        "MapLv": 6,
+        "Clear": false,
+        "thumbnail": "Map8",
+        "background": "MapBG8",
+		"DefaultScore":150000
+    },
+    {
+        "ID": 9,
+        "MapNumber": 8,
+        "MapName": "Prison Labyrinth - The Second Floor",
+        "MapLv": 7,
+        "Clear": false,
+        "thumbnail": "Map9",
+        "background": "MapBG9",
+		"DefaultScore":160000
+    },
+    {
+        "ID": 10,
+        "MapNumber": 9,
+        "MapName": "Prison Labyrinth - The Third Floor",
+        "MapLv": 8,
+        "Clear": false,
+        "thumbnail": "Map10",
+        "background": "MapBG10",
+		"DefaultScore":170000
+    }
+
+
+]
+    
+

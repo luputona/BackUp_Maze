@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CharSpawn
+  - unitychan
+  - ChaWitch
+  - ToonMaid_Cool
+  - JellyFishGirl
+  - Misaki
+  - Utc
+  - Yuko
+  - Thief
+  - ChaDragon
+  - StaminaBar
+  - MapObject
+  - GameMgr
+  - ControllAnchor
+  - MinimapBtn
+  - MapItem
+  - Minimap
+  - Floor
+  - State_UI_Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - NGUI
+  - MapObject
+  - Particle
+  - Ceiling
+  - Floor
+  - Key
+  - Torch1
+  - MapObject1
+  - Tree
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,101 @@
+[
+    {
+        "ID": 1,
+        "CharNumber": 0,
+        "CharName": "Unitychan",
+        "Speed": 12,
+        "Boost": 18,
+		"MaxStamina": 120,
+		"UseStamina": 8,
+		"RecoveryStamina": 4,
+        "thumbnail": "unitychan"
+    },
+    {
+        "ID": 2,
+        "CharNumber": 1,
+        "CharName": "Witch",
+        "Speed": 10,
+        "Boost": 19,
+		"MaxStamina": 100,
+		"UseStamina": 5,
+		"RecoveryStamina": 2,
+        "thumbnail": "Witch"        
+    },
+    {
+        "ID": 3,
+        "CharNumber": 2,
+        "CharName": "Maid",
+        "Speed": 9,
+        "Boost": 15,
+		"MaxStamina": 150,
+		"UseStamina": 6,
+		"RecoveryStamina": 6,
+        "thumbnail": "Maid"        
+    },
+    {
+        "ID": 4,
+        "CharNumber": 3,
+        "CharName": "Jelly Girl",
+        "Speed": 10,
+        "Boost": 16,
+		"MaxStamina": 150,
+		"UseStamina": 8,
+		"RecoveryStamina": 3,
+        "thumbnail": "jelly"
+    },
+    {
+        "ID": 5,
+        "CharNumber": 4,
+        "CharName": "Misaki",
+        "Speed": 12,
+        "Boost": 18,
+		"MaxStamina": 120,
+		"UseStamina": 8,
+		"RecoveryStamina": 3,
+        "thumbnail": "portrait_misaki_B_01"        
+    },
+    {
+        "ID": 6,
+        "CharNumber": 5,
+        "CharName": "Kohaku",
+        "Speed": 12,
+        "Boost": 18,
+		"MaxStamina": 120,
+		"UseStamina": 8,
+		"RecoveryStamina": 3,
+        "thumbnail": "portrait_kohaku_B_01"
+    },
+    {
+        "ID": 7,
+        "CharNumber": 6,
+        "CharName": "Yuko",
+        "Speed": 12,
+        "Boost": 18,
+		"MaxStamina": 120,
+		"UseStamina": 8,
+		"RecoveryStamina": 3,
+        "thumbnail": "portrait_yuko_B_01"
+    },
+    {
+        "ID": 8,
+        "CharNumber": 7,
+        "CharName": "Thief",
+        "Speed": 12,
+        "Boost": 18,
+		"MaxStamina": 120,
+		"UseStamina": 8,
+		"RecoveryStamina": 7,
+        "thumbnail": "Thief"
+    },
+    {
+        "ID": 9,
+        "CharNumber": 8,
+        "CharName": "Dragon",
+        "Speed": 16,
+        "Boost": 20,
+		"MaxStamina": 200,
+		"UseStamina": 8,
+		"RecoveryStamina": 5,
+        "thumbnail": "Dragon"
+    }
+]
