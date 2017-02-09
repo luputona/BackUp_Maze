@@ -51,11 +51,11 @@ public class LoadMapData : MonoBehaviour
         }
 
         //안드로이드 기기 내에서 json 데이타를 불러오는 방법
-        TextAsset textAsset = Resources.Load<TextAsset>("StreamingAssets/MapInfor");
+        TextAsset textAsset = Resources.Load<TextAsset>("StreamingAssets/MapInfor") as TextAsset;
         jsonString = textAsset.ToString();
         m_jMapData = JsonMapper.ToObject(jsonString);
-        
-        //m_jMapData = JsonMapper.ToObject(File.ReadAllText(Application.dataPath + "/Json_Data/MapInfor.json"));
+
+        //m_jMapData = JsonMapper.ToObject(File.ReadAllText(Application.dataPath + "/StreamingAssets/MapInfor.json"));
         //m_jMapData = JsonMapper.ToObject(textAsset.text);
         ConstructMapDatabase();
     }

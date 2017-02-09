@@ -47,6 +47,9 @@ public class LoadCharacterData : MonoBehaviour
         jsonString = textAsset.ToString();
         m_jCharData = JsonMapper.ToObject(jsonString);
 
+
+
+
         ConstructCharDatabase();
     }
 
